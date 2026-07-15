@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning **Advanced System Design, Zero-Knowledge Proofs, and Web3**
 - 👯 I’m looking to collaborate on **Open Source projects and Blockchain initiatives**
 - 💬 Ask me about **React, Node.js, Next.js, and Smart Contracts**
-- 📫 How to reach me: **[Add your email or LinkedIn]**
 
 <br />
 
